@@ -1,16 +1,42 @@
-### Hi there 👋
+# Hello There!! <img align="Center" height="120" src="https://user-images.githubusercontent.com/101070911/165308516-95875462-55b1-4eab-a415-22cd4317a272.gif"> 
 
-<!--
-**VictorAGust/VictorAGust** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <a href="https://github.com/VictorAGust">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=victoragust&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=victoragust&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
-Here are some ideas to get you started:
+  ## Currently using
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: inline_block">
+  <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165301132-7bd213f7-9512-4dd0-b32e-8553e583c750.svg">
+  <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165301455-afc49a0a-5989-41bb-b821-fb85e1b42126.svg">
+  <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165301624-6358273c-51a0-4c3d-b281-937eca7dc77a.svg">
+  <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165301794-83ef4a1c-28ee-4165-a538-b34ebb5eba55.svg">
+  <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165301903-444dc02b-90e5-4411-87f9-6d7b1f836b1f.svg">
+  <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165302003-afcc635e-6031-4f97-9406-1eb214f4f016.svg">
+  <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165302122-dc73a39b-bc98-431a-aca9-b374f253efeb.svg">
+</div>
+
+  ## Things i want to learn for now
+  
+  <div style="display: inline_block">
+  <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165304401-ad9135ba-fabd-4d91-a94e-8207111d71b0.svg">
+  <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165304684-cdc7c705-7508-403e-b5b4-da468889f63d.svg">
+  <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165304776-50d6df01-b03e-4794-a3ec-bd0ef063d5e1.svg">
+  </div>
+ 
+  ##
+  
+- ➡️ I’m currently looking for a job.
+- 📖 I’m currently improving on nodeJS, ReactJs.
+- ⚠️ Fun fact: Everyone In 'Code Geass' Loves Pizza Because The Series Was Funded By Pizza Hut.
+  
+  ## 
+  # Thanks for your time!! 
+  
+  <img align="Center" height="200" src="https://user-images.githubusercontent.com/101070911/165313710-f60f5dc1-4b65-4a4d-91ac-c050a635739e.gif"> 
+
+  
+
+
