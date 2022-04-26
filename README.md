@@ -1,4 +1,4 @@
-# Hello There!! <img align="Center" height="120" src="https://user-images.githubusercontent.com/101070911/165308516-95875462-55b1-4eab-a415-22cd4317a272.gif"> 
+# Hello There!! <img align="flex-start" height="70" src="https://user-images.githubusercontent.com/101070911/165308516-95875462-55b1-4eab-a415-22cd4317a272.gif"> 
 
 <div style="display: inline_block">
   <a href="https://github.com/VictorAGust">
