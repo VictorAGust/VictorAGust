@@ -10,7 +10,7 @@
 
 <div style="display: inline_block">
   <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165301132-7bd213f7-9512-4dd0-b32e-8553e583c750.svg">
-  <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165301455-afc49a0a-5989-41bb-b821-fb85e1b42126.svg">
+  <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/167280351-d3f9e66f-d759-4be9-a5a0-f9fb7dfe7d6a.svg">
   <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165301624-6358273c-51a0-4c3d-b281-937eca7dc77a.svg">
   <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165301794-83ef4a1c-28ee-4165-a538-b34ebb5eba55.svg">
   <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165301903-444dc02b-90e5-4411-87f9-6d7b1f836b1f.svg">
@@ -19,10 +19,10 @@
 </div>
 
   ## Things i want to learn for now
-  
+
   <div style="display: inline_block">
   <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165304401-ad9135ba-fabd-4d91-a94e-8207111d71b0.svg">
-  <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165304684-cdc7c705-7508-403e-b5b4-da468889f63d.svg">
+  <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/167280374-68ed4d82-ee5b-4a68-be7f-19754d90e2a6.svg">
   <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165304776-50d6df01-b03e-4794-a3ec-bd0ef063d5e1.svg">
   </div>
  
