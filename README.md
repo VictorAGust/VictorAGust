@@ -16,7 +16,14 @@
   <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165301903-444dc02b-90e5-4411-87f9-6d7b1f836b1f.svg">
   <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165302003-afcc635e-6031-4f97-9406-1eb214f4f016.svg">
   <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165302122-dc73a39b-bc98-431a-aca9-b374f253efeb.svg">
+  
+  <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/167280547-a6569b28-d480-44c9-a37d-7fa2a041a53b.svg">
+  <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/167280562-f481b927-932e-424e-abe5-e54a17841ec7.svg">
+  <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/167280589-d4fa530c-0cd6-4d48-b06e-94800e36c9dc.svg">
+  <img align="center"  height="30" width="40" src="https://user-images.githubusercontent.com/101070911/165302122-dc73a39b-bc98-431a-aca9-b374f253efeb.svg">
 </div>
+
+
 
   ## Things i want to learn for now
 
